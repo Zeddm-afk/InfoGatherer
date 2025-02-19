@@ -1,4 +1,4 @@
-# aiqicha
+# InfoGatherer
 简介:输入企业名获取企业介绍及账号相关信息
 
 用途:
